@@ -5,10 +5,9 @@
 
 
 
-## [3D Model Kitchen] (3D Model Kitchen Photos) 
+## 3D Model Kitchen 
 ![](images/Kitchen_View_2.jpg)
-
-
+[Photos](3D Model Kitchen Photos)
 
 
 ## 3D Animation Video 
