@@ -1,7 +1,7 @@
 # Katrina Lenselink | 1F01 Portfolio
 
 ## Axure Minigame 
-### [Click here](Axure Minigame/home.html) 
+### [Click here](Axure Minigame) 
 
 -------------------------------------------------------------------------------------------------------------------------
 
