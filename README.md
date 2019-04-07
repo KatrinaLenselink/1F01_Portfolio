@@ -13,4 +13,4 @@
 
 -------------------------------------------------------------------------------------------------------------------------
 ## Christmas Website | [Click here](FinalWebsiteAssignment-master/MainPage.html)
-
+<img src="images/christmasproducts.png" width="300" height="300"> 
