@@ -1,6 +1,6 @@
 body{
 	color:black;
-	background-image:url("LegoVideo/lego-background.png");
+	background-color:yellow;
 }
 
 
@@ -16,5 +16,9 @@ h1{
 	font-family: Impact, sans-serif;
 	font-size: 40px;
 	padding-top: 20px;
-	font-colour: green;
+	font-color: blue;
+}
+h6{
+	font-color: green;
+	
 }
