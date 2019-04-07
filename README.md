@@ -1,7 +1,7 @@
 # Katrina Lenselink | 1F01 Portfolio
 
 ## Axure Minigame 
-### [Click here](http://127.0.0.1:32767/start.html#p=shadow_start_page&g=1) 
+### [Click here](Axure Minigame/shadow_start_page_.html) 
 
 -------------------------------------------------------------------------------------------------------------------------
 
