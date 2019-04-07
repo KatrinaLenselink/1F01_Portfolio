@@ -7,6 +7,7 @@
 
 ## 3D Model Kitchen 
 ![](images/Kitchen_View_2.png)
+<img src="images/Kitchen_View_2.png" width="48">
 ### [Slideshow](3Dmodelkitchenvideo.mp4)
 -------------------------------------------------------------------------------------------------------------------------
 
