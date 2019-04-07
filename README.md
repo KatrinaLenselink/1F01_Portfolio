@@ -10,7 +10,7 @@
 -------------------------------------------------------------------------------------------------------------------------
 
 ## 3D Animation Video | [Click here](LegoVideo/3Dvideo.html)
-
+<img src="images/legovideo.PNG" width="300" height="300"> 
 -------------------------------------------------------------------------------------------------------------------------
 ## Christmas Website | [Click here](FinalWebsiteAssignment-master/MainPage.html)
-<img src="images/christmasproducts.png" width="300" height="300"> 
+<img src="images/christmasproducts.PNG" width="300" height="300"> 
