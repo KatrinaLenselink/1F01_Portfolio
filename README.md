@@ -5,9 +5,8 @@
 
 -------------------------------------------------------------------------------------------------------------------------
 
-## 3D Model Kitchen 
-<img src="images/Kitchen_View_2.png" width="300" height="300" align="center">
-### [Slideshow](3Dmodelkitchenvideo.mp4)
+## 3D Model Kitchen ### [Slideshow](3Dmodelkitchenvideo.mp4)
+<img src="images/Kitchen_View_2.png" width="300" height="300">   
 -------------------------------------------------------------------------------------------------------------------------
 
 ## 3D Animation Video 
