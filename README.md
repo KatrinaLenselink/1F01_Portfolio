@@ -11,8 +11,8 @@
 -------------------------------------------------------------------------------------------------------------------------
 
 ## 3D Animation Video 
-### [Click here](3Dvideo.html)
+### [Click here](images/3Dvideo.html)
 
 -------------------------------------------------------------------------------------------------------------------------
 ## Christmas Website 
-[click here](FinalWebsiteAssignment-master/MainPage.html)
+### [Click here](FinalWebsiteAssignment-master/MainPage.html)
