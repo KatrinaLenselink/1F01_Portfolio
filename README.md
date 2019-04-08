@@ -17,3 +17,7 @@
 
 ## Christmas Website | [Website](FinalWebsiteAssignment-master/MainPage.html)
 <img src="images/christmasproducts.PNG" width="300" height="300"> 
+
+-------------------------------------------------------------------------------------------------------------------------
+
+##### Music in videos from bensound.com | Background images from Creative Commons sites
